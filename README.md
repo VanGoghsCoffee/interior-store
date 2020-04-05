@@ -22,12 +22,14 @@ The application supports the following features, divided into the sellers (login
 * Add products
 * Edit products
 * See orders
+
 ![alt text](readme/shop1.gif "Seller Dashboard") 
 
 ### Visitors & Sellers
 * See all products
 * Put products into shopping cart
 * Order everything that is in the shopping cart
+
 ![alt text](readme/shop2.gif "Order Process") 
 
 ## Upcoming features
