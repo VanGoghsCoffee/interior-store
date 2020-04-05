@@ -3,8 +3,6 @@ Interior-Shop is a shop platform for designers to sell their creations.
 
 The project was time-framed for a weekend to have to have a look into the Laravel PHP framework.
 
-![alt text](readme/shop1.gif "Logo Title Text 1") 
-
 ## Run the application
 Clone the project and run
 ```
@@ -24,11 +22,13 @@ The application supports the following features, divided into the sellers (login
 * Add products
 * Edit products
 * See orders
+![alt text](readme/shop1.gif "Seller Dashboard") 
 
 ### Visitors & Sellers
 * See all products
 * Put products into shopping cart
 * Order everything that is in the shopping cart
+![alt text](readme/shop2.gif "Order Process") 
 
 ## Upcoming features
 * Order API microservice implemented with the light-weight Laravel Lumen framework
