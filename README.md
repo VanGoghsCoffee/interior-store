@@ -35,15 +35,3 @@ The application supports the following features, divided into the sellers (login
 ## Upcoming features
 * Order API microservice implemented with the light-weight Laravel Lumen framework
 * Product API implemented into the already existing application
-
-## Run the application
-
-```
-docker-compose up
-```
-Access http://localhost:8000 in your browser
-
-To rebuild the interior-shop image construction run
-```
-docker-compose up --build
-```
